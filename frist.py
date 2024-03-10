@@ -1,1 +1,2 @@
-print("hay bro python working")
+a=int(input("enter a number : "))
+print("value of a :",a)
